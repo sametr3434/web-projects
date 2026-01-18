@@ -13,9 +13,9 @@ ensuring usability and clarity for non-Turkish users.
 
 ### Live Projects
 
-- https://sadikoglu.tuzlatest.com
-- https://yemek.tuzlatest.com
+- http://sadikoglu.tuzlatest.com
+- http://yemek.tuzlatest.com
 - https://novodentalcare.co.uk
-- https://haskes.tuzlatest.com
+- http://haskes.tuzlatest.com
 - https://pentahaliyikama.com.tr
-- https://bozdag.tuzlatest.com
+- http://bozdag.tuzlatest.com
